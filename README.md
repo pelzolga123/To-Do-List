@@ -3,6 +3,8 @@
  <p align="center">
     A Simple To-Do application Built with Javascript
   <br />
+   <br />
+ 
 <img src="https://i.ibb.co/hHbDVPs/Screenshot-from-2020-03-13-16-14-37.png" alt="Screenshot-from-2020-03-13-16-14-37" border="0">
   
 ## About The Project
