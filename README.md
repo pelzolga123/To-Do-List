@@ -1,30 +1,10 @@
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-
-  <h1 align="center">A Simple To-Do List application</h1>
-
-  <p align="center">
+<h1 align="center">A Simple To-Do List application 👋</h1>
+ <p align="center">
     A Simple To-Do application Built with Javascript
-    <br />
-    <a href="#">View Demo</a>
-    ·
-    <a href="https://github.com/tundeiness/To-Do-List/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/tundeiness/To-Do-List/issues">Request Feature</a>
-  </p>
-</p>
-
-## Table of Contents
-
-  - [About The Project](#about-the-project)
-    - [Built With](#built-with)
-  - [License](#license)
-  - [Authors](#authors)
-
-
-<!-- ABOUT THE PROJECT -->
+  <br />
+<img src="https://i.ibb.co/hHbDVPs/Screenshot-from-2020-03-13-16-14-37.png" alt="Screenshot-from-2020-03-13-16-14-37" border="0">
+  
 ## About The Project
 
 The To-Do application is a project aimed at showcasing our knowlegde of Objects,
@@ -33,22 +13,49 @@ with the understanding of webpack were heavily relied on while building this
 application.
 It also shows our understanding of  the concepts of Single Responsibility and Tightly Coupled Objects.
 
+## Development
+
+* Install dependencies
+```
+npm install
+```
+* Run script
+```
+npm run build
+```
+Then open index.html in browser.
+
 
 ### Built With
 * [Javascript](https://babeljs.io/)
 * [Bootstrap](https://getbootstrap.com)
 * [Webpack](https://webpack.js.org/guides/getting-started/#using-a-configuration)
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-<!-- AUTHOR -->
-
 ## Authors
 
-This project was executed by the duo of [Olga
-Pelts](https://github.com/pelzolga123) & [Tunde
-Oretade](https://twitter.com/tundeiness)
+👤 **Olga Pelts**
+   - Github: [@pelzolga123](https://github.com/pelzolga123)
+   - LinkedIn: [Olga Pelts](https://www.linkedin.com/in/olga-pelts/)
+
+👤 **Tunde Oretade**
+   - Github: [@tundeiness](https://github.com/tundeiness)
+   - LinkedIn: [Tunde Oretade](https://www.linkedin.com/in/tundeoretade/)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/pelzolga123/To-Do-List/issues).
+
+1. Fork it (https://github.com/pelzolga123/To-Do-List/fork)
+2. Create your working branch (git checkout -b [choose-a-name])
+3. Commit your changes (git commit -am 'what this commit will fix/add')
+4. Push to the branch (git push origin feature/[feature-name])
+5. Create a new Pull Request
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
