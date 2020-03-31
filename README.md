@@ -9,11 +9,11 @@
   
 ## About The Project
 
-The To-Do application is a project aimed at showcasing our knowlegde of Objects,
-Factory Functions, and Module Pattern in javascript ES6. These concepts along
+The To-Do application is a project aimed at showcasing our knowledge of Objects,
+Factory Functions, and Module Pattern in Javascript ES6. These concepts along
 with the understanding of webpack were heavily relied on while building this
 application.
-It also shows our understanding of  the concepts of Single Responsibility and Tightly Coupled Objects.
+It also shows our understanding of the concepts of Single Responsibility and Tightly Coupled Objects.
 
 ## Development
 
@@ -25,7 +25,7 @@ npm install
 ```
 npm run build
 ```
-Then open index.html in browser.
+Then open index.html in the browser.
 
 
 ### Built With
